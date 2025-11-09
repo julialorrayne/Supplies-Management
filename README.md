@@ -7,3 +7,4 @@ Developed an Inventory Management System using Power Apps to digitize and standa
 
 ## App Interface
 
+![App 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app%201.png?raw=true)
