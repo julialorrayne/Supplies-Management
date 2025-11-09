@@ -26,7 +26,7 @@ First, the user inputs data on supply consumption in Power Apps
 
 
 
-### Excel Sheet Tracker
+### Excel Sheet Tracker - Daily Consumption
 
 Once the user clicks “Submit,” all input data is automatically exported to an Excel file and a Tableau dashboard.
 
@@ -35,6 +35,9 @@ The Excel file includes a daily-level tab tracking supply activity and updates.
 
 
 ![Excel 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/Excel1.jpeg?raw=true)
+
+
+### Excel Sheet Tracker - Weekly Consumption
 
 
 The second tab summarizes weekly supply usage data
