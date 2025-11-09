@@ -1,11 +1,14 @@
 # Supplies-Management
 
 **Description:**
-Developed an Inventory Management System to digitize and standardize supply tracking for 8 departments managing over 60 supplies in Coach's Distribution Center (Jacksonville). Integrated Power Automate, Excel, and Tableau to create automated reports, reducing manual work and enabling real-time visibility into inventory trends for data-driven supply chain decisions.
+Developed an Inventory Management System to digitize and standardize supply tracking across 8 departments managing over 60 supplies at Coach’s Distribution Center (Jacksonville). Automated reporting processes to reduce manual work and provide real-time visibility into inventory trends, enabling data-driven supply chain decisions.
+
 
 **Tools Used:** Power Apps, Power Automate, Tableau, Excel
 
+
 ## How the App Works
+
 
 ### Power Apps
 
