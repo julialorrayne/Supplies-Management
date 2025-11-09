@@ -5,12 +5,5 @@ Developed an Inventory Management System using Power Apps to digitize and standa
 
 **Tools Used:** Power Apps, Power Automate, Tableau, Excel
 
-##App Interface
-1- User selects Activity
-2- User selects date
+## App Interface
 
-
-3- User selects Warehouse Management user
-4- User selects item
-
-5- Depending the supply the user selects, they are prompted to type either the number of pallets or cases
