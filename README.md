@@ -5,6 +5,12 @@ Developed an Inventory Management System using Power Apps to digitize and standa
 
 **Tools Used:** Power Apps, Power Automate, Tableau, Excel
 
-## App Interface
+## How the App Works
 
 ![App 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app%201.png?raw=true)
+
+
+![App 2](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app%202.png?raw=true)
+
+
+![App 3](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app3.png?raw=true)
