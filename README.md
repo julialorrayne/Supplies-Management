@@ -12,6 +12,10 @@ Developed an Inventory Management System to digitize and standardize supply trac
 
 ### Power Apps
 
+
+First, the user inputs data on supply consumption in Power Apps
+
+
 ![App 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app%201.png?raw=true)
 
 
