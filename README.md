@@ -18,6 +18,7 @@ Developed an Inventory Management System to digitize and standardize supply trac
 ![App 3](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app3.png?raw=true)
 
 
+
 ### Excel Sheet Tracker
 
 Once the user clicks “Submit,” all input data is automatically exported to an Excel file and a Tableau dashboard.
@@ -33,6 +34,7 @@ The second tab summarizes weekly supply usage data
 
 
 ![Excel 2](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/Excel2.jpeg?raw=true)
+
 
 
 ### Tableau Dashboard
