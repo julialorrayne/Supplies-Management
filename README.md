@@ -31,7 +31,7 @@ Once the user clicks “Submit,” all input data is automatically exported to a
 ### Excel Sheet Tracker - Daily Consumption
 
 
-The Excel file includes a daily-level tab tracking supply activity and updates.
+The Excel file includes a daily-level tab that tracks supply activity and updates.
 
 
 ![Excel 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/Excel1.jpeg?raw=true)
@@ -40,7 +40,7 @@ The Excel file includes a daily-level tab tracking supply activity and updates.
 ### Excel Sheet Tracker - Weekly Consumption
 
 
-The second tab summarizes weekly supply usage data
+The second tab summarizes weekly supply usage data.
 
 
 ![Excel 2](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/Excel2.jpeg?raw=true)
