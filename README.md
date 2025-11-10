@@ -13,7 +13,7 @@ Developed an Inventory Management System to digitize and standardize supply trac
 ### Power Apps
 
 
-First, the user inputs data on supply consumption in Power Apps
+First, the user inputs data on supply consumption in Power Apps.
 
 
 ![App 1](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app%201.png?raw=true)
@@ -25,10 +25,10 @@ First, the user inputs data on supply consumption in Power Apps
 ![App 3](https://github.com/julialorrayne/Projects-images/blob/main/Supplies_Management/app3.png?raw=true)
 
 
+Once the user clicks “Submit,” all input data is automatically exported to an Excel file and a Tableau dashboard.
+
 
 ### Excel Sheet Tracker - Daily Consumption
-
-Once the user clicks “Submit,” all input data is automatically exported to an Excel file and a Tableau dashboard.
 
 
 The Excel file includes a daily-level tab tracking supply activity and updates.
